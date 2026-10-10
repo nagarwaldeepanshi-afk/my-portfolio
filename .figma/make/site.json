@@ -1,0 +1,11 @@
+{
+  "description": "Portfolio of Deepanshi Nagarwal, M.Des UI/UX Design student at Dhirubhai Ambani University with an engineering background, designing interfaces, tangible interactions and immersive product experiences.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  },
+  "title": "Deepanshi Nagarwal \u00b7 UI/UX, Product & Interaction Designer"
+}
