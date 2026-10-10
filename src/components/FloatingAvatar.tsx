@@ -12,7 +12,7 @@ export default function FloatingAvatar(_props: Props) {
       style={{
         position: 'absolute',
         left: '50vw',
-        top: '35vh',
+        top: '25vh',
         width: 'clamp(120px, 28vw, 360px)',
         transform: 'translate(-50%, -10%)',
         zIndex: 50,
